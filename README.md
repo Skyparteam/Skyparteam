@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/skypar_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skypar_1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/skyparcybersecurity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skyparcybersecurity" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/skyparcyberSecurity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skyparcyberSecurity" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
